@@ -615,7 +615,7 @@ variance:
     position).
     
   * If `C2` is invariant in its *i*th type parameter, then `Ti` occurs
-    in invariant position, irregardless of what the variance of the
+    in invariant position, regardless of what the variance of the
     occurrence of `T` is.
 
 For instance, consider again our implementation of `Queue`:
